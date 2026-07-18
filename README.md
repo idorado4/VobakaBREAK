@@ -1,2 +1,2 @@
 # BabokaBREAK
-Digitalization of the TCG Haikyuu!! Baboka!! BREAK
+Digitalization of the TCG Haikyuu!! Vaboka!! BREAK
